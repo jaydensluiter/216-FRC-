@@ -152,6 +152,7 @@ public final class Constants {
     public static final class Pneumatics {
         public static final int PCM_CAN_PORT = 10;
         public static final int ARM_SOLENOID_PORT = 1;
+        public static final int NGA_SOLENOID_PORT = 2;
     }
     public static final class Intake {
         public static final int INTAKE_PWM_PORT = 2; 
